@@ -90,6 +90,7 @@ body {
     font-weight: 900;
     font-size: 55px;
     color: var(--main-color);
+    text-shadow: #000;
   }
 
   .card__title:after,.card__title:before {
@@ -105,6 +106,31 @@ body {
     margin-top: 8px;
     font-weight: 400;
     font-size: 22px;
+    color: var(--main-color);
+  }
+
+  .word {
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 25px;
+    color: var(--main-color);
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .phonetics {
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--main-color);
+    font-style: italic;
+    letter-spacing: 2px;
+  }
+
+  .definition {
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 18px;
     color: var(--main-color);
   }
   
