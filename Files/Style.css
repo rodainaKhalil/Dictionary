@@ -109,7 +109,7 @@ body {
     color: var(--main-color);
   }
 
-  .word {
+  .title {
     margin-top: 8px;
     font-weight: 400;
     font-size: 25px;
@@ -127,7 +127,7 @@ body {
     letter-spacing: 2px;
   }
 
-  .definition {
+  .meaning {
     margin-top: 8px;
     font-weight: 400;
     font-size: 18px;
